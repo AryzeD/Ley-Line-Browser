@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="LeyLineBrowserApp.exe" version="1.0.0.0" publicKeyToken="edab985596cbd9dd" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LeyLineBrowserApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="LeyLineBrowserApp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto do UAC
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó
+          requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e Registro para manter a compatibilidade com versões anteriores,
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LeyLineBrowserApp.exe" size="81880">
+      <assemblyIdentity name="LeyLineBrowserApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SpeOrOR88NElq5O24YtIvM/NcgSl61vokp05b3Mo/YI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LeyLineBrowserApp.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JOSELITA-PC\JOSELITA" issuerKeyHash="746e93c574770e4a7e304e742f13a9bcb48fead4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9DE79f3y+IpE4Ny0IhVzd5eGbTPn9TJ/bdIhCNhKdtI=</DigestValue></Reference></SignedInfo><SignatureValue>WxGg11RmP+yAG/lbFcoBTw46cBdab67yYXu0KnzI5zSM0NWANZg2aCXV5MJX/0u6mq4Ibtk3cEIPLZVfksmHMMQcKk1ppbceY2tLwZmmJmY4HDrvZDPJ7NuwcD8YwL8KqZW5vG8fkzkbuAW6xFgG4gYZ4e08NuyEhP1gInd7XL0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>y9xUD/h4Nwk+G68OyWFWqE9I+KbR7wROLEuiHZG+VJAKYwV0UHKrGB4WjRN1UT2ETt8MpyaTlaKxykPV6bCHvGW7xoGC1doCxvGWVT+Ll59N3nomcnR+qS2K73BZq81KIgxloVKOiv1XL1FpfXWfn9pTlQHub3IKFtbzWpVEkHU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d2764ad80821d26d7f32f5e7336d869777731522b4dce0448af8f2fdf53b31f4" Description="" Url=""><as:assemblyIdentity name="LeyLineBrowserApp.exe" version="1.0.0.0" publicKeyToken="edab985596cbd9dd" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JOSELITA-PC\JOSELITA</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jkzJiO2Qs0VzvGeW5IpjYXNW/KRe5KKCqwxxHXPG3D8=</DigestValue></Reference></SignedInfo><SignatureValue>opAZA1HDAa88OQ0r2SkuiILGKvvEKdccaswSEU8xdbyA09/njXQdJCaGAl9YkyfPabcA+54sgZNm9UKXABU50ATvIAq/AdVadxnpY83F1ol5lIoTG0Ej7zqnRyG3L+O1FSQjPCJksgjTulS5xNuvCoYKF+zcF9aWF0f43qtd86U=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>y9xUD/h4Nwk+G68OyWFWqE9I+KbR7wROLEuiHZG+VJAKYwV0UHKrGB4WjRN1UT2ETt8MpyaTlaKxykPV6bCHvGW7xoGC1doCxvGWVT+Ll59N3nomcnR+qS2K73BZq81KIgxloVKOiv1XL1FpfXWfn9pTlQHub3IKFtbzWpVEkHU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQNHnTxh+IfaxGq2/fyOVoTDANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigASgBPAFMARQBMAEkAVABBAC0AUABDAFwASgBPAFMARQBMAEkAVABBMB4XDTIyMDQwNjIwNTExNloXDTIzMDQwNzAyNTExNlowMzExMC8GA1UEAx4oAEoATwBTAEUATABJAFQAQQAtAFAAQwBcAEoATwBTAEUATABJAFQAQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAy9xUD/h4Nwk+G68OyWFWqE9I+KbR7wROLEuiHZG+VJAKYwV0UHKrGB4WjRN1UT2ETt8MpyaTlaKxykPV6bCHvGW7xoGC1doCxvGWVT+Ll59N3nomcnR+qS2K73BZq81KIgxloVKOiv1XL1FpfXWfn9pTlQHub3IKFtbzWpVEkHUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCJKaDMds7rFp99gYIEmClmQ6V6m6ydExqlZevudybgPCpV/diBgnXuHjNl8hr2GDe91/4uGssLY/q9tQkMz/xHUOXD9ee9DXMQMjhSPzMwwHuBQOiGd/7fuAEBBAemelwV8bT3Q3nPAaApN6xDc/xZhAL8d2lcqsg8JNU5O+OlYg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
