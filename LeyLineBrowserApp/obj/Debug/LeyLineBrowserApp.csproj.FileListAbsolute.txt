@@ -1,0 +1,22 @@
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.Form1.resources
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.Properties.Resources.resources
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\bin\Debug\LeyLineBrowserApp.exe.config
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\bin\Debug\LeyLineBrowserApp.exe
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\bin\Debug\LeyLineBrowserApp.pdb
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.exe
+C:\Users\dev\source\repos\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.pdb
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\bin\Debug\LeyLineBrowserApp.exe.config
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\bin\Debug\LeyLineBrowserApp.exe
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\bin\Debug\LeyLineBrowserApp.pdb
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.csproj.AssemblyReference.cache
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.csproj.SuggestedBindingRedirects.cache
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.Form1.resources
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.Properties.Resources.resources
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.csproj.GenerateResource.cache
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.csproj.CoreCompileInputs.cache
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.exe
+E:\Visial Studio\proj\LeyLineBrowserApp\LeyLineBrowserApp\obj\Debug\LeyLineBrowserApp.pdb
